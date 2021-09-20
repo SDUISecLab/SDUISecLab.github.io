@@ -32,7 +32,7 @@ div#listing-page
     margin-top: 10px;
     /* Nuking the padding on the right side makes floats' margins work */
     padding-right: 0px;
-    /* Bottom margin on people-profiles is 10px, so this gets us the 10px we
+    /* Bottom margin on people-profile is 10px, so this gets us the 10px we
        want */
     padding-bottom: 5px;
 }
@@ -206,7 +206,7 @@ div#listing-page
 }
 
 /*
- * Listing information for projects
+ * Listing information for project
  */
 .projects-listing div.project-profile 
 {
@@ -398,7 +398,7 @@ div#filter-options a{
 }
 
 /*
- * Used for auto-rearrangement of projects
+ * Used for auto-rearrangement of project
  */
 div.masonry-container {
     margin-left: auto;

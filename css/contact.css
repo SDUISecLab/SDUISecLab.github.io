@@ -1,57 +1,48 @@
-div#contact-page table
+div#positions-page table
 {
   position:relative;
   margin-top: 10px;
 }
 
-div#contact-page .title
+div#positions-page .title
 {
   font-size: 10pt;
 }
 
-div#contact-page td#contact-box
-{
-  width:275px;
-}
-
-div#contact-page td#contact-box div.person-profile
-{
-  width: 240px;
-  height: auto;
-  padding: 15px;
-}
-
-div#contact-page td#directions-box
+div#positions-page td#positions-box
 {
   color: #ffffff;
-  background-color:#505050;
+  background-color: #182b19;
 }
 
-div#contact-page td#directions-box iframe {
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 15px;
-  display: block;
+div#positions-page td#positions-box .transparent-box {
+  background-image: none;
+  background-color: #111e12;
+  margin-top: 10px;
 }
 
-div#contact-page td#mailing-box
-{
-  background-color:#503d2c;
+div#positions-page td#positions-box .transparent-box p {
+  margin-top: 0px;
+}
+
+div#positions-page td#positions-box .transparent-box a#underline {
   color: #ffffff;
-  padding: 15px;
+  //font-style: italic;
+  text-decoration: underline;
 }
 
-div#contact-page td#mailing-box .transparent-box {
+div#positions-page td#school-box
+{
+  color: #ffffff;
+  background-color: #503d2c;
+}
+
+div#positions-page td#school-box .transparent-box {
   background-image: none;
   background-color: #382b1f;
   margin-top: 10px;
 }
 
-div#contact-page td#directions-box .transparent-box {
-  background-image: none;
-  background-color: #383838;
-}
-
-div#contact-page td#directions-box .transparent-box p {
+div#positions-page td#school-box .transparent-box p {
   margin-top: 0px;
 }

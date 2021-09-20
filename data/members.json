@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Shanqing Guo",
+    "position": "Faculty",
+    "image": "guoshanqing.jpg",
+    "profile": "guoshanqing.html"
+  },
+  {
+    "name": "Hao Li",
+    "position": "PhD Student",
+    "image": "lihao.jpg",
+    "profile": "lihao.html"
+  },
+  {
+    "name": "Song Lian",
+    "position": "Master Student",
+    "image": "liansong.jpg",
+    "profile": "liansong.html"
+  },
+  {
+    "name": "Kuiliang Lin",
+    "position": "Master Student",
+    "image": "linkuiliang.jpg",
+    "profile": "linkuiliang.html"
+  },
+  {
+    "name": "Gaoyuan Liu",
+    "position": "Master Student",
+    "image": "liugaoyuan.jpg",
+    "profile": "liugaoyuan.html"
+  },
+  {
+    "name": "Xiaofeng Liu",
+    "position": "Master Student",
+    "image": "liuxiaofeng.jpg",
+    "profile": "liuxiaofeng.html"
+  },
+  {
+    "name": "Yichen Liu",
+    "position": "Master Student",
+    "image": "liuyichen.jpeg",
+    "profile": "liuyichen.jpeg"
+  },
+  {
+    "name": "Fengyan Lv",
+    "position": "Master Student",
+    "image": "lvfengyan.jpg",
+    "profile": "lvfengyan.html"
+  },
+  {
+    "name": "Xiangtao Meng",
+    "position": "Master Student",
+    "image": "mengxiangtao.jpg",
+    "profile": "mengxiangtao.html"
+  },
+  {
+    "name": "Zuoyuan Peng",
+    "position": "Master Student",
+    "image": "pengzuoyuan.jpg",
+    "profile": "pengzuoyuan.html"
+  },
+  {
+    "name": "Xiangpu Song",
+    "position": "Master Student",
+    "image": "songxiangpu.jpg",
+    "profile": "songxiangpu.html"
+  },
+  {
+    "name": "Liwei Wang",
+    "position": "Master Student",
+    "image": "wangliwei.jpg",
+    "profile": "wangliwei.html"
+  },
+  {
+    "name": "Mingshuo Yang",
+    "position": "Master Student",
+    "image": "yangmingshuo.jpg",
+    "profile": "yangmingshuo.html"
+  },
+  {
+    "name": "Tengxiao Yang",
+    "position": "Master Student",
+    "image": "yangtengxiao.jpg",
+    "profile": "yangtengxiao.html"
+  },
+  {
+    "name": "Chuan Yu",
+    "position": "Master Student",
+    "image": "yuchuan.jpg",
+    "profile": "yuchuan.html"
+  },
+  {
+    "name": "Zhen Zhao",
+    "position": "Master Student",
+    "image": "zhaozhen.jpg",
+    "profile": "zhaozhen.html"
+  }
+]
