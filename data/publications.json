@@ -1,0 +1,142 @@
+[
+  {
+    "year": "pre-print",
+    "publications": [
+      {
+        "title": "Label Inference Attacks Against Vertical Federated Learning",
+        "authors": "Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, and Ting Wang",
+        "conference": "USENIX Security 2022"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "publications": [
+      {
+        "title": "Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings",
+        "authors": "Rui Li, Wenrui Diao,Zhou Li,Jianqi Du,Shanqing Guo",
+        "conference": "IEEE S&P 2021"
+      },
+      {
+        "title": "Differentially Private Publication of Multi-Party Sequential Data",
+        "authors": "Peng Tang, Rui Chen, Sen Su, Shanqing Guo, Lei Ju, Gaoyuan Liu",
+        "conference": "ICDE 2021"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "publications": [
+      {
+        "title": "an Empirical Study of Potentially Malicious Third-Party Libraries in Android Apps",
+        "authors": "Zicheng Zhang, Wenrui Diao, Chengyu Hu, Shanqing Guo, Chaoshun Zuo,and Li Li",
+        "conference": "ACM WiSec 2020"
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "publications": [
+      {
+        "title": "How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN",
+        "authors": "Zheng Li，Chengyu Hu,Yang Zhang,Shanqing Guo",
+        "conference": "ACSAC 2019"
+      },
+      {
+        "title": "CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices",
+        "authors": "Li Zhang,Jiongyi Chen,Wenrui Diao,Shanqing Guo, Jian Weng,Kehuan Zhang",
+        "conference": "RAID 2019"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "publications": [
+      {
+        "title": "Mapping to Bits: Eﬀiciently Detecting Type Confusion Errors.",
+        "authors": "Chengbin Pang，Yunlan Du, Bing Mao, Shanqing Guo",
+        "conference": "In Proceedings of the 33rd Annual Computer Security Applications Conference"
+      },
+      {
+        "title": "You Are Where You APP: An Assessment on Location Privacy of Social APPs",
+        "authors": "Fanghua Zhao, Linan Gao, Zeyu Wang, Bo Wang,Shanqing Guo,et al",
+        "conference": "ISSRE 2018"
+      },
+      {
+        "title": "DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL/TLS Implementations",
+        "authors": "Chao Chen, Wenrui Diao, Yingpei Zeng, Shanqing Guo and Chengyu Hu",
+        "conference": "ICSME 2018"
+      },
+      {
+        "title": "FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications",
+        "authors": "Jia Chen,Ge Han,Shanqing Guo,et al",
+        "conference": "DSN 2018"
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "publications":  [
+      {
+        "title": "NIVAnalyzer: a Tool for Automatically Detecting and Verifying Next-Intent Vulnerabilities in Android Apps",
+        "authors": "Junjie Tang，Xingmin Cui，Ziming Zhao，Shanqing Guo et al",
+        "conference": "ICST2017"
+      },
+      {
+        "title": "Supervised cross-modal hashing without relaxation",
+        "authors": "Hua-Junjie Huang, Rui Yang, Chuan-Xiang Li, Yuliang Shi, Shanqing Guo*, Xin-Shun Xu*",
+        "conference": "ICME 2017"
+      },
+      {
+        "title": "Supervised Class Graph Preserving Hashing for Image Retrieval and Classification",
+        "authors": "Lu Feng, Xin-Shun Xu, Shanqing Guo, Xiaolin Wang",
+        "conference": "MMM 2017"
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "publications": [
+      {
+        "title": "Data Flow Analysis on Android Platform with Fragment Lifecycle Modeling",
+        "authors": "Yongfeng Li, Shanqing Guo and Bing Mao",
+        "conference": "SecureComm 2016"
+      },
+      {
+        "title": "Analysis of Exposed Methods to JavaScript in Hybrid Apps",
+        "authors": "Yang Liu, Xingmin Cui, Changyuan Wang, Shanqing Guo* and Xinshun Xu",
+        "conference": "IEEE TrustCom 2016"
+      },
+      {
+        "title": "Toward Discovering and Exploiting Private Server-side Web APIs",
+        "authors": "Chen Jia，Cui Xingmin,Zhao Ziming,Liang Jie,Guo Shanqing*",
+        "conference": "ICWS 2016"
+      },
+      {
+        "title": "SpatialGraphx: A Distributed Graph Computing Framework for Spatial and Temporal Data at Scale",
+        "authors": "Changyuan Wang, Zongfei Lu, Yang Liu, Shanqing Guo*, Xinshun Xu, Shijun Liu, Lizhen Cui",
+        "conference": "COMPSAC 2016"
+      },
+      {
+        "title": "Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval",
+        "authors": "Ting-Kun Yan, Xin-Shun Xu*, Shanqing Guo*, Zi Huang, Xiaolin Wang",
+        "conference": "CIKM 2016"
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "publications": [
+      {
+        "title": "All Your Sessions are Belong to us: Investigating Authenticator Leakage through Backup Channels on Android",
+        "authors": "Guangdong Bai, Jun Sun, Jianliang Wu, Quanqi Ye, Li Li, Jin Song Dong, Shanqing Guo",
+        "conference": "ICECCS 2015"
+      },
+      {
+        "title": "Automatically Detecting SSL Error-Handling Vulnerabilities in Hybrid Mobile Web Apps",
+        "authors": "Chaoshun Zuo, Jianliang Wu and Shanqing Guo*",
+        "conference": "ASIACCS 2015"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Publications : S3 Lab - Software &amp; Systems Security Laboratory</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.s3lab.io/favicon.ico">
+    <link href="css/global.css" rel="stylesheet" type="text/css">
+    <link href="css/listing.css" rel="stylesheet" type="text/css">
+    <link href="css/transparency.css" rel="stylesheet" type="text/css">
+    <link href="css/pubs.css" rel="stylesheet" type="text/css">
+    <script type="application/javascript" src="js/jquery-1.js"></script>
+</head>
+
+<body>
+<div id="listing-page" class="page-container">
+
+    <div id="title">
+        <a href="index.html"><img
+                src="Publications%20S3%20Lab%20-%20Software%20&amp;%20Systems%20Security%20Laboratory_files/title.png"
+                style="width:100%" alt="S3 Lab - Software &amp; Systems Security Laboratory"></a>
+    </div>
+
+    <div id="menu-stack">
+        ::
+        <a href="index.html">front page</a>
+        ››
+        <a href="publications.html">publications</a></div>
+
+    <div id="navigation">
+        view
+        <a href="news.html">news</a> :: <a href="members.html">members</a> :: <a href="projects.html">projects</a> :: <a
+            href="contact.html">contact</a></div>
+
+    <div class="clear"></div>
+
+
+    <div class="box-shadow papers-listing">
+        <p class="section-title">
+            publications
+        </p>
+
+        <div style="clear:both;"></div>
+
+    </div>
+</div>
+<script type="application/javascript">
+    function publication(item, index) {
+        $(".papers-listing").children("div:last-child").append(" <div class=\"publication\">" +
+            "<span class=\"title\" style='color: #ffffff'>" + item["title"] + "</span><br>" +
+            "<span class=\"author-list\">" + item["authors"] + "</span><br>" +
+            item["conference"]+ "</div>")
+    }
+
+    function publicationYear(item, index) {
+        $(".papers-listing").append("<div class=\"yearbreak\">" + item["year"] + "</div><div class=\"paper-group\"></div>")
+        item["publications"].forEach(publication)
+    }
+
+    $(document).ready(function () {
+        $.ajax({
+            url: 'data/publications.json',
+            method: 'get',
+            success: function (data) {
+                console.log(data)
+                data.forEach(publicationYear)
+            }
+        });
+    });
+</script>
+
+
+</body>
+</html>

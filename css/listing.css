@@ -1,0 +1,406 @@
+div#listing-page 
+{
+}
+
+/*
+ * Boxes containing the main types of objects
+ */
+.papers-listing {
+    color: #ffffff;
+    background-color: #2c3e50;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.news-listing {
+    color: #ffffff;
+    background-color: #503d2c;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.people-listing {
+    color: #ffffff;
+    background-color: #502c2c;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /* Nuking the padding on the right side makes floats' margins work */
+    padding-right: 0px;
+    /* Bottom margin on people-profiles is 10px, so this gets us the 10px we
+       want */
+    padding-bottom: 5px;
+}
+
+.projects-listing {
+    color: #ffffff;
+    background-color: #322c50;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /* Nuking the padding on the right side makes floats' margins work */
+    padding-right: 0px;
+}
+
+.areas-listing {
+    color: #ffffff;
+    background-color: #182b19;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.courses-listing {
+    color: #ffffff;
+    background-color: #473e2a;
+    padding: 15px;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /* Nuking the padding on the right side makes floats' margins work */
+    padding-right: 0px;
+}
+
+/*
+ * Listing information for publications
+ */
+
+.papers-listing div.paper-group
+{
+    border: solid #111111 1px;
+    margin-top: 15px;
+    padding: 15px;
+    background-image: none;
+    background-color: #1f2c38;
+}
+
+.papers-listing div.publication
+{
+  margin:0px 0px 8px 10px;
+  text-indent:-10px; 
+  color: #cccccc;
+} 
+
+.papers-listing div.publication span.author-list
+{
+    color: #aaaaaa;
+}
+
+/* Set color to normal, not link color */
+.papers-listing div.publication a {
+    color: #ffffff;
+}
+
+.papers-listing div.publication a {
+}
+
+.papers-listing div.publication a:hover {
+}
+
+.papers-listing div.publication a.author
+{
+}
+
+.papers-listing div.publication a.author:hover
+{
+}
+
+.papers-listing div.publication a.title
+{
+  /* color:#000000; */
+    font-style: italic;
+}
+
+.papers-listing div.publication .award-paper
+{
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.papers-listing div.publication span.paper-links {
+    color: #666666;
+    white-space: nowrap;
+}
+
+.papers-listing div.publication span.paper-links a {
+    color: #666666;
+}
+
+.papers-listing div.yearbreak {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    text-indent: 0px;
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+/*
+ * Listing information for news
+ */
+
+.news-listing div.news-group
+{
+    border: solid #111111 1px;
+    margin-top: 15px;
+    padding: 15px;
+    background-image: none;
+    background-color: #382b1f;
+}
+
+.news-listing div.news
+{
+  margin:0px 0px 8px 10px;
+  text-indent:-10px; 
+  color: #ffffff;
+} 
+
+/* Set color to normal, not link color */
+.news-listing div.news a {
+    color: #ffffff;
+}
+
+.news-listing div.news a {
+    font-style: italic;
+}
+
+.news-listing div.news a:hover {
+}
+
+.news-listing div.news div.date
+{
+    color:#cccccc;
+    font-style: italic;
+}
+
+.news-listing div.news div.description
+{
+    /* color:#000000; */
+    /* font-style: italic; */
+    margin-top: auto;
+    display: inline;
+}
+
+.news-listing div.yearbreak {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    text-indent: 0px;
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+/*
+ * Listing information for projects
+ */
+.projects-listing div.project-profile 
+{
+  margin: 15px 15px 0px 0px;
+  padding: 15px;
+  border: 1px solid #111111;
+  text-align: left;
+  width: 500px;
+  background-color: #231f38;
+  background-repeat: repeat;
+}
+
+.projects-listing a.name
+{
+    color: #dddddd;
+    font-size: 16pt;
+}
+
+.projects-listing img
+{
+  border: 0px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.projects-listing p
+{
+  margin-bottom: 5px;
+}
+
+.projects-listing div.project-profile img.projlogo-small {
+    width: 150px;
+    float: left;
+}
+
+.projects-listing div.project-profile div.description {
+    display: inline;
+}
+
+/*
+ * Listing information for people
+ */
+.people-listing div.person-profile
+{
+  width: 150px;
+  height: 205px;
+  margin: 0px 10px 10px 0px;
+  padding: 10px;
+  text-align: center;
+  border: solid 1px #111111;
+  background-image: none;
+  background-color: #381f1f;
+  float: none;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+/* Hack: because person-profile has bottom margin, not top, make sure it
+ * gets separted appropriately from the text above */
+
+.people-listing > p.section-title + div {
+    margin-top: 10px;
+}
+
+.people-listing a
+{
+    color: #ffffff;
+}
+
+.people-listing img
+{
+  border: 0px;
+  margin-bottom:5px;
+}
+
+.people-listing span.position
+{
+    font-size: 10pt;
+    color: #bbbbbb;
+}
+
+/* Hack - have to put this back because we nuked left padding */
+.people-listing div#filter-options {
+    margin-right: 15px;
+}
+
+/*
+ * Used for listing research areas
+ */
+.areas-listing ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.areas-listing ul li {
+    list-style-type: none;
+    display: block;
+    float: left;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.areas-listing a {
+    color: #dddddd;
+}
+
+.areas-listing div.transparent-box {
+    padding: 10px;
+    background-image: none;
+    background-color: #111e12;
+}
+
+/*
+ * Listing information for courses
+ */
+.courses-listing div.course-profile 
+{
+  margin: 15px 15px 0px 0px;
+  padding: 15px;
+  border: 1px solid #111111;
+  text-align: left;
+  width: 500px;
+  background-color: #28241c;
+  background-repeat: repeat;
+}
+
+.courses-listing a.name
+{
+    color: #dddddd;
+    font-size: 16pt;
+}
+
+.courses-listing a.name-small
+{
+    color: #dddddd;
+    font-size: 13pt;
+}
+
+.courses-listing img
+{
+  border: 0px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.courses-listing p
+{
+  margin-bottom: 5px;
+}
+
+.courses-listing div.course-profile img.courselogo-small {
+    width: 150px;
+    float: left;
+}
+
+.courses-listing div.course-profile div.description {
+    display: inline;
+}
+
+/*
+ * Used for both papers-listing and people-listing
+ */
+div#filter-options
+{
+  border:3px solid black; 
+  padding:5px; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-size:11pt;
+  color: black;
+}
+
+div#filter-options a{
+    color: #555555;
+}
+
+.people-listing div#filter-options {
+    background-image: none;
+    background-color: #b8aaaa; 
+}
+
+.papers-listing div#filter-options {
+    background-image: none;
+    background-color: #aab1b8;
+}
+
+/*
+ * Used for auto-rearrangement of projects
+ */
+div.masonry-container {
+    margin-left: auto;
+    margin-right: auto;
+}
