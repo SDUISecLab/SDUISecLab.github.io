@@ -27,7 +27,7 @@ div#frontpage div#front-menu
 div#frontpage div#front-menu li
 {
   display: inline;
-  background: url('images/000000-0.6.png');
+  background: url('/pics/li_background.png');
   background-repeat: repeat;
   padding: 8px;
   margin: 5px;
@@ -87,7 +87,7 @@ div#frontpage div#link-box
   left:20px; 
   padding:5px;
   text-align: left;
-  background: url('images/000000-0.6.png');
+  background: url('/pics/li_background.png');
   background-repeat: repeat;
   font-size: 11pt;
   color: #cccccc;

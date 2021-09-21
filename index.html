@@ -147,7 +147,6 @@
             url: 'data/publications.json',
             method: 'get',
             success: function (data) {
-                console.log(data)
                 var count = 0
                 for (var i=0; i<data.length; i++) {
                     for (var j=0; j<data[i]["publications"].length; j ++) {
@@ -164,7 +163,6 @@
             url: 'data/news.json',
             method: 'get',
             success: function (data) {
-                console.log(data)
                 var count = 0
                 for (var i=0; i<data.length; i++) {
                     for (var j=0; j<data[i]["news"].length; j ++) {
