@@ -12,6 +12,18 @@
     "profile": "lihao.html"
   },
   {
+    "name": "Li Wang",
+    "position": "PhD Student",
+    "image": "wangli.jpg",
+    "profile": "wangli.html"
+  },
+  {
+    "name": "Libo Chen",
+    "position": "PhD Student",
+    "image": "chenlibo.jpg",
+    "profile": "chenlibo.html"
+  },
+  {
     "name": "Song Lian",
     "position": "Master Student",
     "image": "liansong.jpg",
@@ -94,5 +106,23 @@
     "position": "Master Student",
     "image": "zhaozhen.jpg",
     "profile": "zhaozhen.html"
+  },
+  {
+    "name": "Xingtao Bai",
+    "position": "Master Student",
+    "image": "baixingtao.jpg",
+    "profile": "baixingtao.html"
+  },
+  {
+    "name": "Yingkai Dong",
+    "position": "Master Student",
+    "image": "dongyingkai.jpg",
+    "profile": "dongyingkai.html"
+  },
+  {
+    "name": "Cheng Liu",
+    "position": "Master Student",
+    "image": "liucheng.jpg",
+    "profile": "liucheng.html"
   }
 ]
