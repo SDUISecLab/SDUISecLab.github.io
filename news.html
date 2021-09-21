@@ -1,48 +1,66 @@
 <!DOCTYPE html>
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>ISecLab</title>
     <link href="css/global.css" rel="stylesheet" type="text/css">
     <link href="css/listing.css" rel="stylesheet" type="text/css">
     <link href="css/transparency.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-1.js" type="application/javascript"></script>
 </head>
 
 <body>
 <div id="listing-page" class="page-container">
 
-<div id="title">
-    Internet and Security Laboratory (ISecLab)
+    <div id="title">
+        Internet and Security Laboratory (ISecLab)
+    </div>
+
+    <div id="menu-stack">
+        ::
+        <a href="index.html">Home</a>
+        ››
+        <a href="news.html">News</a></div>
+
+    <div id="navigation">
+        view
+        <a href="members.html">Members</a> :: <a href="publications.html">Publications</a> :: <a href="projects.html">Projects</a>
+        :: <a href="/courses.html">Courses</a> :: <a href="contact.html">Contact</a></div>
+
+    <div class="clear"></div>
+
+
+    <div class="box-shadow news-listing">
+
+        <p class="section-title">
+            news
+        </p>
+
+        <div style="clear:both;"></div>
+    </div>
 </div>
+<script>
+    function news(item, index) {
+        $(".news-listing").children("div:last-child").append("<div class=\"news\"><div class=\"date\">" + item["date"] +
+            "</div>" + item["content"] + "</div>")
+    }
 
-<div id="menu-stack">
-::
-<a href="index.html">front page</a>
-››
-<a href="news.html">news</a></div>
+    function newsYear(item, index) {
+        $(".news-listing").append("<div class=\"yearbreak\">" + item["year"] + "</div><div class=\"news-group\"></div>")
+        item["news"].forEach(news)
+    }
 
-<div id="navigation">
-view
-<a href="members.html">members</a> :: <a href="publications.html">publications</a> :: <a href="projects.html">projects</a> :: <a href="contact.html">contact</a></div>
+    $(document).ready(function () {
+        $.ajax({
+            url: 'data/news.json',
+            method: 'get',
+            success: function (data) {
+                console.log(data)
+                data.forEach(newsYear)
+            }
+        });
+    });
+</script>
 
-<div class="clear"></div>
-
-
-<div class="box-shadow news-listing">
-
-<p class="section-title">
-news
-</p>
-
-<div style="clear:both;"></div>
-
-<div class="yearbreak">2021</div>
-<div class="news-group">currently empty</div>
-
-</div>
-</div>
-
-
-
-
-
-</body></html>
+</body>
+</html>

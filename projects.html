@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>ISecLab</title>
     <link href="css/global.css" rel="stylesheet" type="text/css">
     <link href="css/listing.css" rel="stylesheet" type="text/css">
@@ -9,52 +10,62 @@
     <script type="text/javascript" src="js/jquery-1.js"></script>
     <script type="text/javascript" src="js/masonry.js"></script>
     <script type="text/javascript" src="js/imagesloaded.js"></script>
-    <script type="text/javascript"> $(document).ready( function() { var $projects = $('#projects'); $projects.imagesLoaded( function() { $projects.masonry({itemSelector:'.project-profile'}); }); var $courses = $('#courses'); $courses.imagesLoaded( function() { $courses.masonry({itemSelector:'.course-profile'}); }); });</script>
+    <script type="text/javascript"> $(document).ready(function () {
+        var $projects = $('#projects');
+        $projects.imagesLoaded(function () {
+            $projects.masonry({itemSelector: '.project-profile'});
+        });
+        var $courses = $('#courses');
+        $courses.imagesLoaded(function () {
+            $courses.masonry({itemSelector: '.course-profile'});
+        });
+    });</script>
 </head>
 
 <body>
 <div id="projects-page" class="page-container">
 
-<div id="title">
-    Internet and Security Laboratory (ISecLab)
+    <div id="title">
+        Internet and Security Laboratory (ISecLab)
+    </div>
+
+    <div id="menu-stack">
+        ::
+        <a href="index.html">Home</a>
+        ››
+        <a href="projects.html">Projects</a></div>
+
+    <div id="navigation">
+        view
+        <a href="news.html">News</a> :: <a href="members.html">Members</a> :: <a href="publications.html">Publications</a> ::
+        <a href="/courses.html">Courses</a> :: <a href="contact.html">Contact</a></div>
+
+    <div class="clear"></div>
+
+
+    <div class="box-shadow projects-listing">
+
+        <p class="section-title">
+            projects
+        </p>
+
+        <div id="projects" class="masonry-container" style="position: relative; height: 1009.27px;">
+
+            <div class="project-profile" style="position: absolute; left: 0px; top: 0px;">
+                <a href="/project/AISecurity.html"><img class="projlogo-small" src="pics/project/AISecurity.jpg"
+                                                        alt="AI Security Platform For CPS System"></a>
+                <a href="/project/AISecurity.html" class="name">AI Security Platform For CPS System</a><br>
+                <div class="description"><p>The Trusted Things project develops new
+                    software systems to enable secure IoT leveraging trusted execution
+                    environment techniques.</p></div>
+                <div class="clear"></div>
+            </div>
+            <div style="clear:both;"></div>
+
+        </div>
+    </div>
+
+
 </div>
-
-<div id="menu-stack">
-::
-<a href="index.html">front page</a>
-››
-<a href="projects.html">projects</a></div>
-
-<div id="navigation">
-view
-<a href="news.html">news</a> :: <a href="members.html">members</a> :: <a href="publications.html">publications</a> :: <a href="contact.html">contact</a></div>
-
-<div class="clear"></div>
-
-
-<div class="box-shadow projects-listing">
-
-<p class="section-title">
-projects
-</p>
-
-<div id="projects" class="masonry-container" style="position: relative; height: 1009.27px;">
-
-<div class="project-profile" style="position: absolute; left: 0px; top: 0px;">
-<a href="/project/AISecurity.html"><img class="projlogo-small" src="pics/project/AISecurity.jpg" alt="AI Security Platform For CPS System"></a>
-<a href="/project/AISecurity.html" class="name">AI Security Platform For CPS System</a><br>
-<div class="description"><p>The Trusted Things project develops new 
-software systems to enable secure IoT leveraging trusted execution 
-environment techniques.</p></div>
-<div class="clear"></div>
-</div>
-<div style="clear:both;"> </div>
-
-</div>
-</div>
-
-
-
-
-
-</div></body></html>
+</body>
+</html>

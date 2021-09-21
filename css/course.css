@@ -1,0 +1,36 @@
+div#course-page div#profile-box
+{
+    clear:both;
+}
+
+div#course-page img.courselogo-large {
+    width: 250px;
+    float: left;
+    margin: 10px;
+    border: 0px;
+}
+
+div#course-page div.courses-listing {
+    /* Put this back, it's not needed when not floating the content */
+    padding-right: 15px;
+}
+
+/*
+ * Tweak to move closer to boxes with people
+ */
+div#course-page div.people-listing p.section-title {
+    margin-bottom: 5px;
+}
+
+/* Make this look like a person-profile */
+div#course-page div.people-listing div.title-container {
+    float: none;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+/* Hack: because person-profile has bottom margin, not top, make sure it
+ * gets separted appropriately from the text above */
+div.people-listing div.title-container div.person-profile {
+    margin-top: 5px;
+}
