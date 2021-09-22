@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AI Security Platform For CPS System",
+    "description": "Platform for comprehensive security analysis of AI-Stack of Autonomous Vehicles, Robot, UAV and other AI-based CPS systems",
+    "image": "AISecurity.jpg",
+    "page": "AISecurity.html"
+  },
+  {
+    "name": "CryptoMagnifier",
+    "description": "A static analysis tool to detect cryptographic misuse bugs in IoT firmware images",
+    "image": "CryptoMagnifier.png",
+    "page": "CryptoMagnifier.html"
+  }
+]

@@ -54,12 +54,6 @@
     "profile": "liuyichen.jpeg"
   },
   {
-    "name": "Fengyan Lv",
-    "position": "Master Student",
-    "image": "lvfengyan.jpg",
-    "profile": "lvfengyan.html"
-  },
-  {
     "name": "Xiangtao Meng",
     "position": "Master Student",
     "image": "mengxiangtao.jpg",
@@ -76,12 +70,6 @@
     "position": "Master Student",
     "image": "songxiangpu.jpg",
     "profile": "songxiangpu.html"
-  },
-  {
-    "name": "Liwei Wang",
-    "position": "Master Student",
-    "image": "wangliwei.jpg",
-    "profile": "wangliwei.html"
   },
   {
     "name": "Mingshuo Yang",
@@ -102,12 +90,6 @@
     "profile": "yuchuan.html"
   },
   {
-    "name": "Zhen Zhao",
-    "position": "Master Student",
-    "image": "zhaozhen.jpg",
-    "profile": "zhaozhen.html"
-  },
-  {
     "name": "Xingtao Bai",
     "position": "Master Student",
     "image": "baixingtao.jpg",
@@ -124,5 +106,11 @@
     "position": "Master Student",
     "image": "liucheng.jpg",
     "profile": "liucheng.html"
+  },
+  {
+    "name": "Jianing Wang",
+    "position": "Master Student",
+    "image": "wangjianing.png",
+    "profile": "wangjianing.html"
   }
 ]
