@@ -10,5 +10,11 @@
     "description": "A static analysis tool to detect cryptographic misuse bugs in IoT firmware images",
     "image": "CryptoMagnifier.png",
     "page": "CryptoMagnifier.html"
+  },
+  {
+    "name": "AESS",
+    "description": "The AESS (Android EcoSystem Security) project implements a large-scale comprehensive measurement of the security of the Android ecosystem",
+    "image": "AESS.jpg",
+    "page": "AESS.html"
   }
 ]
