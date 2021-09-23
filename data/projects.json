@@ -22,5 +22,11 @@
     "description": "LiveBugger is a new deepfake-powered attack framework that enables customizable, automated security evaluation of FLV",
     "image": "LiveBugger.png",
     "page": "LiveBugger.html"
+  },
+  {
+    "name": "Profuzz",
+    "description": "Profuzz is a fuzzing platform which focuses on discovering vulnerabilities in protocol design and implementation",
+    "image": "Profuzz.png",
+    "page": "Profuzz.html"
   }
 ]
