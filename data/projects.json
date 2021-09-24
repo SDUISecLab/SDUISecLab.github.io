@@ -31,7 +31,13 @@
   },
   {
     "name": "Internet Measurement and Security (IMS)",
-    "description": "Committed to the latest network-related technology or system security. ",
+    "description": "Committed to the latest network-related technology or system security",
+    "image": "ims.png",
+    "page": "ims.html"
+  },
+  {
+    "name": "Trustworthy AI Inference Systems",
+    "description": "this project place a strong emphasis on fairness,robustness and Privacy of the AI Inference Systems",
     "image": "ims.png",
     "page": "ims.html"
   }
