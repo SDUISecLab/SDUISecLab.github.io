@@ -182,6 +182,9 @@
                         "                    <div class=\"description\"><p>" + data[i]["description"] + "</p></div>" +
                         "                    <div class=\"clear\"></div>" +
                         "                </div>")
+                    count ++
+                    if (count >= 5)
+                        return
                 }
             }
         });
