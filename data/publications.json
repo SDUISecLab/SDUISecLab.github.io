@@ -1,7 +1,32 @@
 [
   {
+    "year": "Pre-print",
+    "publications": [
+      {
+        "title": "Android Custom Permissions Demystified: A Comprehensive Security Evaluation",
+        "authors": "Rui Li, Wenrui Diao, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo",
+        "conference": "To appear in the IEEE Transactions on Software Engineering"
+      },
+      {
+        "title": "Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification, Applications",
+        "authors": "Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, and Ting Wang",
+        "conference": "To appear in the IEEE Transactions on Dependable and Secure Computing"
+      }
+    ]
+  },
+  {
     "year": "2022",
     "publications": [
+      {
+        "title": "Large-scale Security Measurements on the Android Firmware Ecosystem",
+        "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan",
+        "conference": "The 44th IEEE/ACM International Conference on Software Engineering, 2022"
+      },
+      {
+        "title": "Demystifying Android Non-SDK APIs: Measurement and Understanding",
+        "authors": "Shishuai Yang, Rui Li, Jiongyi Chen, Wenrui Diao, and Shanqing Guo",
+        "conference": "The 44th IEEE/ACM International Conference on Software Engineering, 2022"
+      },
       {
         "title": "Label Inference Attacks Against Vertical Federated Learning",
         "authors": "Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, and Ting Wang",
