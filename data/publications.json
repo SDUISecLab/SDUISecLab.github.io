@@ -31,6 +31,11 @@
         "title": "Label Inference Attacks Against Vertical Federated Learning",
         "authors": "Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, and Ting Wang",
         "conference": "USENIX Security 2022"
+      },
+      {
+        "title": "Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era",
+        "authors": "Changjiang Li, Li Wang, Shouling Ji, Xuhong Zhang, Zhaohan Xi, Shanqing Guo, and Ting Wang",
+        "conference": "USENIX Security 2022"
       }
     ]
   },
