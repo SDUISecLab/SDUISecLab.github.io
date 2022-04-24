@@ -18,6 +18,16 @@
     "year": "2022",
     "publications": [
       {
+        "title": "SFuzz: Slice-based Fuzzing for Real-Time Operating Systems",
+        "authors": "Libo Chen, Quanpu Cai, Zhenbang Ma, Yanhao Wang, Hong Hu, Minghang Shen, Yue Liu, Shanqing Guo, Haixin Duan, Kaida Jiang, and Zhi Xue",
+        "conference": "CCS 2022"
+      },
+      {
+        "title": "An Extensive Study of Residential Proxies in China",
+        "authors": "Mingshuo Yang,Yunnan Yu, Xianghang Mi, Shujun Tang, Shanqing Guo, Yilin Li, Xiaofeng Zheng, Haixin Duan",
+        "conference": "CCS 2022"
+      },
+      {
         "title": "Large-scale Security Measurements on the Android Firmware Ecosystem",
         "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan",
         "conference": "The 44th IEEE/ACM International Conference on Software Engineering, 2022"
