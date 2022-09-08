@@ -60,7 +60,7 @@
       {
         "title": "Android Custom Permissions Demystified: A Comprehensive Security Evaluation",
         "authors": "Rui Li, Wenrui Diao, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo",
-        "conference": "IEEE Transactions on Software Engineering, 2021"
+        "conference": "TSE 2021"
       },
       {
         "title": "Differentially Private Publication of Multi-Party Sequential Data",
@@ -70,7 +70,7 @@
       {
         "title": "Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification, Applications",
         "authors": "Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, and Ting Wang",
-        "conference": "IEEE Transactions on Dependable and Secure Computing, 2021"
+        "conference": "TDSC 2021"
       }
     ]
   },
@@ -105,7 +105,7 @@
       {
         "title": "Mapping to Bits: Eﬀiciently Detecting Type Confusion Errors.",
         "authors": "Chengbin Pang，Yunlan Du, Bing Mao, Shanqing Guo",
-        "conference": "In Proceedings of the 33rd Annual Computer Security Applications Conference"
+        "conference": "ACSAC 2018"
       },
       {
         "title": "You Are Where You APP: An Assessment on Location Privacy of Social APPs",
@@ -130,7 +130,7 @@
       {
         "title": "NIVAnalyzer: a Tool for Automatically Detecting and Verifying Next-Intent Vulnerabilities in Android Apps",
         "authors": "Junjie Tang，Xingmin Cui，Ziming Zhao，Shanqing Guo et al",
-        "conference": "ICST2017"
+        "conference": "ICST 2017"
       },
       {
         "title": "Supervised cross-modal hashing without relaxation",
