@@ -2,16 +2,6 @@
   {
     "year": "Pre-print",
     "publications": [
-      {
-        "title": "Android Custom Permissions Demystified: A Comprehensive Security Evaluation",
-        "authors": "Rui Li, Wenrui Diao, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo",
-        "conference": "To appear in the IEEE Transactions on Software Engineering"
-      },
-      {
-        "title": "Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification, Applications",
-        "authors": "Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, and Ting Wang",
-        "conference": "To appear in the IEEE Transactions on Dependable and Secure Computing"
-      }
     ]
   },
   {
@@ -30,12 +20,12 @@
       {
         "title": "Large-scale Security Measurements on the Android Firmware Ecosystem",
         "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan",
-        "conference": "The 44th IEEE/ACM International Conference on Software Engineering, 2022"
+        "conference": "ICSE 2022"
       },
       {
         "title": "Demystifying Android Non-SDK APIs: Measurement and Understanding",
         "authors": "Shishuai Yang, Rui Li, Jiongyi Chen, Wenrui Diao, and Shanqing Guo",
-        "conference": "The 44th IEEE/ACM International Conference on Software Engineering, 2022"
+        "conference": "ICSE 2022"
       },
       {
         "title": "Label Inference Attacks Against Vertical Federated Learning",
@@ -46,6 +36,21 @@
         "title": "Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era",
         "authors": "Changjiang Li, Li Wang, Shouling Ji, Xuhong Zhang, Zhaohan Xi, Shanqing Guo, and Ting Wang",
         "conference": "USENIX Security 2022"
+      },
+      {
+        "title": "Multi-Dimensional Data Publishing With Local Differential Privacy",
+        "authors": "Gaoyuan Liu,Peng Tang,Chengyu Hu,Chongshi Jin,and Shanqing Guo",
+        "conference": "EDBT 2022"
+      },
+      {
+        "title": "Marginal Release under Multi-Party Personalized Differential Privacy",
+        "authors": "Peng Tang, Rui Chen, Chongshi Jin,Gaoyan Liu,and Shanqing Guo",
+        "conference": "PKDD 2022"
+      },
+      {
+        "title": "PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis",
+        "authors": "Chennan Zhang, Shuang Li, Wenrui Diao, and Shanqing Guo",
+        "conference": "WiSec 2022"
       }
     ]
   },
@@ -58,9 +63,19 @@
         "conference": "IEEE S&P 2021"
       },
       {
+        "title": "Android Custom Permissions Demystified: A Comprehensive Security Evaluation",
+        "authors": "Rui Li, Wenrui Diao, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo",
+        "conference": "IEEE Transactions on Software Engineering, 2021"
+      },
+      {
         "title": "Differentially Private Publication of Multi-Party Sequential Data",
         "authors": "Peng Tang, Rui Chen, Sen Su, Shanqing Guo, Lei Ju, Gaoyuan Liu",
         "conference": "ICDE 2021"
+      },
+      {
+        "title": "Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification, Applications",
+        "authors": "Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, and Ting Wang",
+        "conference": "IEEE Transactions on Dependable and Secure Computing, 2021"
       }
     ]
   },
@@ -70,7 +85,7 @@
       {
         "title": "an Empirical Study of Potentially Malicious Third-Party Libraries in Android Apps",
         "authors": "Zicheng Zhang, Wenrui Diao, Chengyu Hu, Shanqing Guo, Chaoshun Zuo,and Li Li",
-        "conference": "ACM WiSec 2020"
+        "conference": "WiSec 2020"
       }
     ]
   },
@@ -145,7 +160,7 @@
       {
         "title": "Analysis of Exposed Methods to JavaScript in Hybrid Apps",
         "authors": "Yang Liu, Xingmin Cui, Changyuan Wang, Shanqing Guo* and Xinshun Xu",
-        "conference": "IEEE TrustCom 2016"
+        "conference": "TrustCom 2016"
       },
       {
         "title": "Toward Discovering and Exploiting Private Server-side Web APIs",
