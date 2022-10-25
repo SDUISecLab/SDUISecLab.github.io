@@ -130,5 +130,29 @@
     "position": "Master Student",
     "image": "zhangyunruo.jpg",
     "profile": "zhangyunruo.html"
+  },
+  {
+    "name": "Chengtian Hu",
+    "position": "Master Student",
+    "image": "huchengtian.jpg",
+    "profile": "huchengtian.html"
+  },
+  {
+    "name": "Yifei Li",
+    "position": "Master Student",
+    "image": "liyifei.jpg",
+    "profile": "liyifei.html"
+  },
+  {
+    "name": "Yilin Li",
+    "position": "Master Student",
+    "image": "liyilin.png",
+    "profile": "liyilin.html"
+  },
+  {
+    "name": "Hao Pan",
+    "position": "Master Student",
+    "image": "panhao.jpg",
+    "profile": "panhao.html"
   }
 ]
