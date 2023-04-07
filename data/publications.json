@@ -1,5 +1,25 @@
 [
   {
+    "year": "2023",
+    "publications": [
+      {
+        "title": "An Empirical Study of Storj DCS: Ecosystem, Performance, and Security",
+        "authors": "Hao Li, Xianghang Mi, Yanzhi Dou, Shanqing Guo",
+        "conference": "IWQoS 2023"
+      },
+      {
+        "title": "Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems",
+        "authors": "Kailun Yan, Jilian Zhang, Xiangyu Liu, Wenrui Diao, and Shanqing Guo",
+        "conference": "WWW 2023"
+      },
+      {
+        "title": "Multi-Dimensional Data Publishing With Local Differential Privacy",
+        "authors": "Gaoyuan Liu,Peng Tang,Chengyu Hu,Chongshi Jin,and Shanqing Guo",
+        "conference": "EDBT 2023"
+      }
+    ]
+  },
+  {
     "year": "2022",
     "publications": [
       {
