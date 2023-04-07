@@ -53,11 +53,6 @@
         "conference": "USENIX Security 2022"
       },
       {
-        "title": "Multi-Dimensional Data Publishing With Local Differential Privacy",
-        "authors": "Gaoyuan Liu,Peng Tang,Chengyu Hu,Chongshi Jin,and Shanqing Guo",
-        "conference": "EDBT 2022"
-      },
-      {
         "title": "Marginal Release under Multi-Party Personalized Differential Privacy",
         "authors": "Peng Tang, Rui Chen, Chongshi Jin,Gaoyan Liu,and Shanqing Guo",
         "conference": "PKDD 2022"
