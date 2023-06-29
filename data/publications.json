@@ -1,7 +1,27 @@
 [
   {
+    "year": "Preprint",
+    "publications": [
+      {
+        "title": "Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem",
+        "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan",
+        "conference": "IEEE Transactions on Software Engineering, 2023"
+      }
+    ]
+  },
+  {
     "year": "2023",
     "publications": [
+      {
+        "title": "Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems",
+        "authors": "Rui Li, Wenrui Diao, Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang",
+        "conference": "USENIX Security 2023"
+      },
+      {
+        "title": "ATTAA: Active Text Traffic Analysis Attacks on Secure Messaging Applications",
+        "authors": "Fengyan Lv, Cheng Liu, Xiaofeng Liu, Chengyu Hu, Zhihao Chen, and Shanqing Guo",
+        "conference": "IEEE ICC 2023"
+      },
       {
         "title": "An Empirical Study of Storj DCS: Ecosystem, Performance, and Security",
         "authors": "Hao Li, Xianghang Mi, Yanzhi Dou, Shanqing Guo",
