@@ -1,17 +1,27 @@
 [
   {
-    "year": "Preprint",
+    "year": "2024",
     "publications": [
       {
-        "title": "Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem",
-        "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan",
-        "conference": "IEEE Transactions on Software Engineering, 2023"
+        "title": "DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps.",
+        "authors": "Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, Wenrui Diao, Qingchuan Zhao, and Shanqing Guo",
+        "conference": "ICSE 2024"
       }
     ]
   },
   {
     "year": "2023",
     "publications": [
+      {
+        "title": "SaTC: Shared-Keyword Aware Taint Checking for Detecting Bugs in Embedded Systems",
+        "authors": "Libo Chen,Yanhao Wang,Jiaqi Linghu,Qinsheng Hou,Quanpu Cai,Shanqing Guo,Zhi Xue",
+        "conference": "TDSC 2023"
+      },
+      {
+        "title": "Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem",
+        "authors": "Qinsheng Hou, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan",
+        "conference": "TSE 2023"
+      },
       {
         "title": "Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems",
         "authors": "Rui Li, Wenrui Diao, Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang",
