@@ -3,7 +3,12 @@
     "year": "2024",
     "publications": [
       {
-        "title": "DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps.",
+        "title": "AVA: Inconspicuous Attribute Variation-based Adversarial Attack",
+        "authors": "Xiangtao Meng, Li Wang, Shanqing Guo, Lei Ju, and Qingchuan Zhao",
+        "conference": "IEEE S&P 2024"
+      },
+      {
+        "title": "DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps",
         "authors": "Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, Wenrui Diao, Qingchuan Zhao, and Shanqing Guo",
         "conference": "ICSE 2024"
       }
@@ -46,6 +51,21 @@
         "title": "Multi-Dimensional Data Publishing With Local Differential Privacy",
         "authors": "Gaoyuan Liu,Peng Tang,Chengyu Hu,Chongshi Jin,and Shanqing Guo",
         "conference": "EDBT 2023"
+      },
+      {
+        "title": "Multi-granularity Deep Vulnerability Detection using Graph Neural Networks",
+        "authors": "Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, Wenrui Diao, Qingchuan Zhao, and Shanqing Guo",
+        "conference": "ICONIP 2023"
+      },
+      {
+        "title": "DeepDiffer: Find Deep Learning Compiler Bugs via Priority-guided Differential Fuzzing",
+        "authors": "Kuiliang Lin, Xiangpu Song, Yingpei Zeng, and Shanqing Guo",
+        "conference": "QRS 2023"
+      },
+      {
+        "title": "Demystifying Decentralized Matrix Communication Network: Ecosystem and Security",
+        "authors": "Hao Li, Yanbo Wu, Ronghong Huang, Xianghang Mi, Chengyu Hu, and Shanqing Guo",
+        "conference": "ICPADS 2023"
       }
     ]
   },
