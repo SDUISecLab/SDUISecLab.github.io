@@ -3,6 +3,11 @@
     "year": "2024",
     "publications": [
       {
+        "title": "DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models",
+        "authors": "Li Wang, Xiangtao Meng, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo",
+        "conference": "ACM Transactions on Privacy and Security (TOPS) 2024"
+      },
+      {
         "title": "AVA: Inconspicuous Attribute Variation-based Adversarial Attack",
         "authors": "Xiangtao Meng, Li Wang, Shanqing Guo, Lei Ju, and Qingchuan Zhao",
         "conference": "IEEE S&P 2024"
