@@ -3,6 +3,16 @@
     "year": "2024",
     "publications": [
       {
+        "title": "TLS-DeepDiffer: Message Tuples-Based Deep Differential Fuzzing for TLS Protocol Implementations",
+        "authors": "Zhen Zhao, Xiangpu Song, Qiuyu Zhong, Yingpei Zeng, Chengyu Hu, Shanqing Guo",
+        "conference": "SANER 2024"
+      },
+      {
+        "title": "Detection and Attribution of Models Trained on Generated Data",
+        "authors": "Ge Han, Ahmed Salem, Zheng Li, Shanqing Guo, Michael Backes, Yang Zhang",
+        "conference": "ICASSP 2024"
+      },
+      {
         "title": "DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models",
         "authors": "Li Wang, Xiangtao Meng, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo",
         "conference": "ACM Transactions on Privacy and Security (TOPS) 2024"
