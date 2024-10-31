@@ -20,7 +20,7 @@
       {
         "title": "FISFuzzer: A Grey-Box Protocol Fuzzer Based on Field Inference and Scheduling",
         "authors": "Hao Pan, Xiangpu Song, Honglin Wu, Kai Wang, Xing Yang, and Shanqing Guo",
-        "conference": "RAID 2024"
+        "conference": "SecureComm 2024"
       },
       {
         "title": "CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning",
