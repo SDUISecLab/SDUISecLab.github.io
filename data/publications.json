@@ -1,7 +1,47 @@
 [
   {
+    "year": "2025",
+    "publications": [
+      {
+        "title": " A Thorough Security Analysis of BLE Proximity Tracking Protocols",
+        "authors": "Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo*",
+        "conference": "USENIX Security 2025"
+      },
+      {
+        "title": "Safe Driving Adversarial Trajectory Can Mislead: Towards More Stealthy Adversarial Attack Against Autonomous Driving Prediction Module",
+        "authors": "Yingkai Dong, Li Wang, Zheng Li, Hao Li, Peng Tang, Chengyu Hu, Shanqing Guo*",
+        "conference": "TOPS 2025"
+      },
+    ]
+  },
+  {
     "year": "2024",
     "publications": [
+      {
+        "title": "FISFuzzer: A Grey-Box Protocol Fuzzer Based on Field Inference and Scheduling",
+        "authors": "Hao Pan, Xiangpu Song, Honglin Wu, Kai Wang, Xing Yang, and Shanqing Guo",
+        "conference": "RAID 2024"
+      },
+      {
+        "title": "CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning",
+        "authors": "Jianing Wang,Shanqing Guo,Wenrui Diao,Yue Liu, ,Haixin Duan, Yichen Liu,Zhenkai Liang",
+        "conference": "RAID 2024"
+      },
+      {
+        "title": "Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks",
+        "authors": "Yu Bi,Mingshuo Yang,Yong Fang,Xianghang Mi*,Shanqing Guo*,Shujun Tang,Haixin Duan",
+        "conference": "ACSAC 2024"
+      },
+      {
+        "title": "GaLileo: General Linear Relaxation Framework for Tightening Robustness Certification of Transformers",
+        "authors": "Yunruo Zhang, Lujia Shen,Shaniqng Guo*,Shouling Ji",
+        "conference": "AAAI 2024"
+      },
+      {
+        "title": "PRJack: Pruning-Resistant Model Hijacking Attack against Deep Learning Models",
+        "authors": "Ge Han, Zheng Li*, Shanqing Guo*",
+        "conference": "IJCNN 2024"
+      },
       {
         "title": "TLS-DeepDiffer: Message Tuples-Based Deep Differential Fuzzing for TLS Protocol Implementations",
         "authors": "Zhen Zhao, Xiangpu Song, Qiuyu Zhong, Yingpei Zeng, Chengyu Hu, Shanqing Guo",
