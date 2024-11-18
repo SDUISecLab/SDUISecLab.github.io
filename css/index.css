@@ -1,0 +1,179 @@
+div#frontpage div#main-picture
+{
+  position: relative;
+  width: 100%;
+  background-color: #000000;
+  text-align:right;
+}
+
+div#frontpage div#main-picture img
+{
+  width: 100%;
+  max-width: 1110px;
+  max-height: 432px;
+  min-width: 800px;
+  min-height: 311px;
+}
+
+div#frontpage div#front-menu
+{
+  position: absolute; 
+  top:6px; 
+  right:4px; 
+  text-align: center;
+  z-index:20; 
+}
+
+div#frontpage div#front-menu li
+{
+  display: inline;
+  background: url('/pics/li_background.png');
+  background-repeat: repeat;
+  padding: 8px;
+  margin: 5px;
+  text-align: center;
+}
+
+div#frontpage div#front-menu a.option
+{
+  color: #ffffff;
+}
+
+div#frontpage div#about-us-box-background 
+{
+  position:absolute; 
+  background-color: #442200;
+  top:0px; 
+  left:0px; 
+  height:100%; 
+  width:100%; 
+  z-index:10; 
+  padding:0px
+}
+
+
+div#frontpage div#about-us-box
+{
+  position: absolute; 
+  top:20px; 
+  left:20px; 
+  width:320px;
+  padding:20px;
+  text-align: left;
+}
+
+div#frontpage div#about-us-box-content
+{
+  position:relative;
+  color: #cccccc;
+  z-index: 10;
+}
+
+div#frontpage div#about-us-box-content a
+{
+  color: #ffffff;
+}
+
+div#frontpage div#about-us-box-content p#about-us-app
+{
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+div#frontpage div#link-box
+{
+  position: absolute; 
+  bottom:20px; 
+  left:20px; 
+  padding:5px;
+  text-align: left;
+  background: url('/pics/li_background.png');
+  background-repeat: repeat;
+  font-size: 11pt;
+  color: #cccccc;
+}
+
+div#frontpage div#link-box a
+{
+    color: #ffffff;
+}
+
+
+div#frontpage div#news-box
+{
+  position: absolute; 
+  bottom:20px; 
+  right:20px; 
+  width:30%;
+  padding:20px;
+  text-align: left;
+}
+
+div#frontpage div#news-box-background 
+{
+  position:absolute; 
+  background-color: #442200;
+  top:0px; 
+  left:0px; 
+  height:100%; 
+  width:100%; 
+  z-index:10; 
+  padding:0px
+}
+
+div#frontpage div#news-box-content
+{
+  position:relative;
+  color: #ffffff;
+  z-index:10;
+}
+
+div#frontpage div#news-box-content div
+{
+  margin-top: 15px;
+}
+
+div#frontpage div#news-box-content div a
+{
+  color: #ffffff;
+  font-style: italic;
+}
+
+div#frontpage table#frontpagetable {
+    width:100%; margin: 0px; padding-top: 10px; border:0px;
+}
+
+div#frontpage td#project-box
+{
+  width: 60%; 
+}
+
+/* Override default */
+div#frontpage .projects-listing div.project-profile {
+    margin-right: auto;
+    margin-left: auto;
+    width: 95%;
+}
+
+div#frontpage .projects-listing {
+    padding-right: 15px;
+}
+
+div#frontpage .areas-listing div.transparent-box {
+    margin-top: 15px;
+}
+
+/* Override default */
+div#frontpage .courses-listing div.course-profile {
+    width: auto;
+}
+
+div#frontpage td#publications-box div.paper-group
+{
+    height: 100%;
+}
+
+div#frontpage td#recentgrads-box
+{
+}
+

@@ -1,0 +1,173 @@
+body {
+    /* font-family: GillSans, HelveticaNeue, Helvetica, Arial, sans-serif; */
+    /*font-family: "Gill Sans", "Gill Sans MT", Calibri, Helvetica, Arial, sans-serif;*/
+    font-size: 11pt;
+    font-weight: normal;
+    color: #000000;
+}
+
+div#footer {
+    font-size: 8pt;
+    font-style: italic;
+    text-align: right;
+    margin-top: 8px;
+}
+
+a#lasr {
+    color: #cc5500;
+    text-decoration: none;
+    font-style: normal;
+}
+
+
+div.page-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 0px;
+    min-width: 800px;
+    max-width: 1110px;
+}
+
+a {
+    color: #aaaaaa;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    border: 0px;
+}
+
+font.disabled-link {
+    color: #bbbbbb;
+}
+
+p.section-title {
+    font-size: 18pt;
+    font-weight: normal;
+    /* color: #cc5500; */
+    color: #ffffff;
+    padding: 0px;
+    margin: 0px 0px 5px 0px;
+}
+
+p.section-title span.light {
+    color: #eda170;
+}
+
+p.section-title span.subtitle {
+    font-size: 60%;
+}
+
+p.section-title span.subtitle a {
+    text-decoration: none;
+    color: #aaaaaa;
+}
+
+p.subsection-title {
+    font-size: 14pt;
+    margin: 0px 0px 5px 0px;
+}
+
+.small-header {
+    /* font-family: Arial; */
+    font-weight: bold;
+    /* font-size: 14pt; */
+    color: #999999;
+    margin-right: 5pt;
+    white-space: nowrap;
+}
+
+div#menu-stack {
+    float: left;
+    font-size: 12pt;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+div#menu-stack a {
+    color: #666666;
+}
+
+div#navigation {
+    float: right;
+    font-size: 12pt;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+div#navigation a {
+    color: #666666;
+}
+
+div#title {
+    padding: 0px;
+    margin: 10px 0px;
+    width: 100%;
+    min-width: 800px;
+    max-width: 1110px;
+    min-height: 28px;
+    max-height: 42px;
+}
+
+div#title img {
+    width: 100%;
+}
+
+div.formRow {
+    clear: left;
+}
+
+div.formLabel {
+    display: block;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+tr {
+    vertical-align: top;
+}
+
+td {
+    margin-top: 5px;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.box-shadow {
+    /* From: http://css3please.com/ */
+    -webkit-box-shadow: 0px 0px 5px #888888; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 0px 0px 5px #888888; /* FF3.5 - 3.6 */
+    box-shadow: 0px 0px 5px #888888; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */
+
+    /* From: http://robertnyman.com/2010/03/16/drop-shadow-with-css-for-all-web-browsers/ */
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#aaaaaa')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#aaaaaa');
+}
+
+div.clear {
+    clear: both;
+    height: 0;
+    overflow: hidden;
+}
+
+.transparent-box {
+    border: solid #111111 1px;
+    background-image: url('images/000000-0.3.png');
+    margin: 0px;
+    padding: 15px;
+    background-repeat: repeat;
+}
