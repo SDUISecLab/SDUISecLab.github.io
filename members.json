@@ -1,0 +1,405 @@
+{
+	"category": [
+		{
+			"id": 0,
+			"name": "Faculty"
+		},
+		{
+			"id": 1,
+			"name": "Postdoctoral Researcher"
+		},
+		{
+			"id": 2,
+			"name": "PhD Student"
+		},
+		{
+			"id": 3,
+			"name": "Master Student"
+		},
+		{
+			"id": 4,
+			"name": "Alumni"
+		}
+	],
+	"member": [
+		{
+			"id": 1,
+			"name": "Shanqing Guo",
+			"category": "Faculty",
+			"image": "/member/guoshanqing.jpg",
+			"email": "",
+			"description": "",
+			"group": -1
+		},
+		{
+			"id": 2,
+			"name": "Li Wang",
+			"category": "Postdoctoral Researcher",
+			"image": "/member/wangli.jpg",
+			"email": "li.wang@sdu.edu.cn",
+			"description": "王粒，博士后，2024年毕业于山东大学网络空间学院。主要研究方向为人工智能安全，对抗机器学习，深度伪造攻击与防御等，相关成果发表在USENIX Security， IEEE S&P，ACM TOPS等会议与期刊上。",
+			"group": 4
+		},
+		{
+			"id": 3,
+			"name": "Ge Han",
+			"category": "PhD Student",
+			"image": "/member/hange.jpg",
+			"email": "hangehg@126.com",
+			"description": "I am interested in the overlap of machine learning and security, which includes the security evaluation of machine learning systems, and the application of machine learning techniques in security related domains. Specifically, my recent researches concern on the robustness and privacy of machine learning systems and have applied deep learning technique to message hiding.",
+			"group": 4
+		},
+		{
+			"id": 4,
+			"name": "Xiangtao Meng",
+			"category": "PhD Student",
+			"image": "/member/mengxiangtao.jpg",
+			"email": "mengxiangtao@mail.sdu.edu.cn",
+			"description": "在读博士，研究方向为人工智能安全",
+			"group": 4
+		},
+		{
+			"id": 5,
+			"name": "Yingkai Dong",
+			"category": "PhD Student",
+			"image": "/member/dongyingkai.jpg",
+			"email": "",
+			"description": "",
+			"group": 4
+		},
+		{
+			"id": 7,
+			"name": "Chuanchao Zang",
+			"category": "PhD Student",
+			"image": "/member/zangchuanchao.jpg",
+			"email": "zcc1720716267@gmail.com",
+			"description": "Research areas: AI Security",
+			"group": 4
+		},
+		{
+			"id": 8,
+			"name": "Xinyu Gao",
+			"category": "Master Student",
+			"image": "/member/gaoxinyu.jpg",
+			"email": "18835258627@163.com",
+			"description": "本科：华北电力大学（保定）计算机科学与技术  硕士：山东大学",
+			"group": 4
+		},
+		{
+			"id": 9,
+			"name": "Wenyu Chen",
+			"category": "Master Student",
+			"image": "/member/chenwenyu.jpg",
+			"email": "202437054@mail.sdu.edu.cn",
+			"description": "Research areas: AI Security",
+			"group": 4
+		},
+		{
+			"id": 10,
+			"name": "Tengxiao Yang",
+			"category": "Alumni",
+			"image": "/member/yangtengxiao.jpg",
+			"email": "ytx17860788669@163.com",
+			"description": "系统与网络空间安全方向，利用深度学习作漏洞检测相关工作。",
+			"group": 4
+		},
+		{
+			"id": 15,
+			"name": "Kuiliang Lin",
+			"category": "Alumni",
+			"image": "/member/linkuiliang.jpg",
+			"email": "",
+			"description": "",
+			"group": 4
+		},
+		{
+			"id": 17,
+			"name": "Xiaofeng Liu",
+			"category": "PhD Student",
+			"image": "/member/liuxiaofeng.jpg",
+			"email": "xiaofengliu@mail.sdu.edu.cn",
+			"description": "我的主要研究方向是协议安全及系统安全。",
+			"group": 3
+		},
+		{
+			"id": 31,
+			"name": "Yu Wang",
+			"category": "Master Student",
+			"image": "/member/wangyu.jpg",
+			"email": "202337045@mail.sdu.edu.cn",
+			"description": "23级硕士，方向是形式化协议分析，擅长编程，对发现协议安全问题有浓厚的兴趣",
+			"group": 3
+		},
+		{
+			"id": 34,
+			"name": "Qiuyu Zhong",
+			"category": "Master Student",
+			"image": "/member/zhongqiuyu.jpg",
+			"email": "1370929796@qq.com",
+			"description": "研二在读",
+			"group": 3
+		},
+		{
+			"id": 40,
+			"name": "Honglin Wu",
+			"category": "Master Student",
+			"image": "/member/wuhonglin.jpg",
+			"email": "",
+			"description": "",
+			"group": 3
+		},
+		{
+			"id": 41,
+			"name": "Jiayi Liao",
+			"category": "Master Student",
+			"image": "/member/liaojiayi.jpg",
+			"email": "",
+			"description": "",
+			"group": 3
+		},
+		{
+			"id": 2,
+			"name": "Hao Li",
+			"category": "Alumni",
+			"image": "/member/lihao.jpg",
+			"email": "sdjylihao@163.com",
+			"description": "研究方向：去中心化网络及协议安全，网络测量与安全，AI安全，应用密码安全",
+			"group": 3
+		},
+		{
+			"id": 23,
+			"name": "Cheng Liu",
+			"category": "Alumni",
+			"image": "/member/liucheng.jpg",
+			"email": "",
+			"description": "",
+			"group": 3
+		},
+		{
+			"id": 24,
+			"name": "Jianing Wang",
+			"category": "Alumni",
+			"image": "/member/wangjianing.png",
+			"email": "",
+			"description": "",
+			"group": 3
+		},
+		{
+			"id": 19,
+			"name": "Xiangpu Song",
+			"category": "PhD Student",
+			"image": "/member/songxiangpu.jpg",
+			"email": "songxiangpu@mail.sdu.edu.cn",
+			"description": "areas of interest: protocol fuzzing",
+			"group": 2
+		},
+		{
+			"id": 26,
+			"name": "Chengtian Hu",
+			"category": "Master Student",
+			"image": "/member/huchengtian.jpg",
+			"email": "202237086@mail.sdu.edu.cn",
+			"description": "研究方向:算法复杂性漏洞检测",
+			"group": 2
+		},
+		{
+			"id": 29,
+			"name": "Hao Pan",
+			"category": "Master Student",
+			"image": "/member/panhao.jpg",
+			"email": "panhao410@mail.sdu.edu.cn",
+			"description": "研究方向：协议安全-网络安全",
+			"group": 2
+		},
+		{
+			"id": 30,
+			"name": "Fengyan Lv",
+			"category": "Master Student",
+			"image": "/member/lvfengyan.jpg",
+			"email": "lv798726974@163.com",
+			"description": "1991年出生，河北邯郸人，主要研究方向为密码安全、协议安全和流量分析。",
+			"group": 2
+		},
+		{
+			"id": 33,
+			"name": "Jingge Sun",
+			"category": "Master Student",
+			"image": "/member/sungjingge.jpg",
+			"email": "202316993@mail.sdu.edu.cn",
+			"description": "主要研究方向:API模糊测试",
+			"group": 2
+		},
+		{
+			"id": 35,
+			"name": "Xingyu Bai",
+			"category": "Master Student",
+			"image": "/member/baixingyu.jpg",
+			"email": "2745362947@qq.com",
+			"description": "Research direction: Protocol security",
+			"group": 2
+		},
+		{
+			"id": 37,
+			"name": "Rui Xin",
+			"category": "Master Student",
+			"image": "/member/xinxinrui.jpg",
+			"email": "konjac_xz_2020@outlook.com",
+			"description": "Currently engaged in research on IoT devices and fuzz testing.",
+			"group": 2
+		},
+		{
+			"id": 32,
+			"name": "Guangshuo Li",
+			"category": "PhD Student",
+			"image": "/member/liguangshuo.jpg",
+			"email": "202321181@mail.sdu.edu.cn",
+			"description": "I am from Jining, Shandong. My research area is Hardware-Assisted Software Security.",
+			"group": 1
+		},
+		{
+			"id": 42,
+			"name": "Zijian Cao",
+			"category": "Master Student",
+			"image": "/member/caozijian.png",
+			"email": "",
+			"description": "",
+			"group": 1
+		},
+		{
+			"id": 36,
+			"name": "Yu Fu",
+			"category": "Master Student",
+			"image": "/member/fuyu.jpg",
+			"email": "fory@mail.sdu.edu.cn",
+			"description": "Research areas: Software Security",
+			"group": 1
+		},
+		{
+			"id": 38,
+			"name": "Chenyi Wang",
+			"category": "Master Student",
+			"image": "/member/wangchenyi.jpg",
+			"email": "wwwcy_ovo@126.com",
+			"description": "2024级硕士研究生，主要研究方向为硬件辅助软件安全",
+			"group": 1
+		},
+		{
+			"id": 11,
+			"name": "Libo Chen",
+			"category": "PhD Student",
+			"image": "/member/chenlibo.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 12,
+			"name": "Pengcheng Ren",
+			"category": "PhD Student",
+			"image": "/member/renpengcheng.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 13,
+			"name": "Qinsheng Hou",
+			"category": "PhD Student",
+			"image": "/member/houqinsheng.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 14,
+			"name": "Song Lian",
+			"category": "Master Student",
+			"image": "/member/liansong.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		
+		{
+			"id": 16,
+			"name": "Gaoyuan Liu",
+			"category": "Master Student",
+			"image": "/member/liugaoyuan.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 18,
+			"name": "Yichen Liu",
+			"category": "Master Student",
+			"image": "/member/liuyichen.jpeg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 20,
+			"name": "Mingshuo Yang",
+			"category": "Master Student",
+			"image": "/member/yangmingshuo.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 21,
+			"name": "Chuan Yu",
+			"category": "Alumni",
+			"image": "/member/yuchuan.jpg",
+			"email": "928996271@qq.com",
+			"description": "2023届硕士毕业生",
+			"group": 0
+		},
+		{
+			"id": 22,
+			"name": "Xingtao Bai",
+			"category": "Master Student",
+			"image": "/member/baixingtao.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 25,
+			"name": "Yunruo Zhang",
+			"category": "Master Student",
+			"image": "/member/zhangyunruo.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 27,
+			"name": "Yifei Li",
+			"category": "Master Student",
+			"image": "/member/liyifei.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 28,
+			"name": "Yilin Li",
+			"category": "PhD Student",
+			"image": "/member/liyilin.png",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 39,
+			"name": "Zuoyuan Peng",
+			"category": "Master Student",
+			"image": "/member/pengzuoyuan.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		}
+	]
+}
