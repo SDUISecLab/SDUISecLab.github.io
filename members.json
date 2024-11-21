@@ -368,7 +368,7 @@
 		{
 			"id": 25,
 			"name": "Yunruo Zhang",
-			"category": "Master Student",
+			"category": "PhD Student",
 			"image": "/member/zhangyunruo.jpg",
 			"email": "",
 			"description": "",
@@ -397,6 +397,24 @@
 			"name": "Zuoyuan Peng",
 			"category": "Alumni",
 			"image": "/member/pengzuoyuan.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 40,
+			"name": "Shuai Wang",
+			"category": "PhD Student",
+			"image": "/member/wangshuai.jpg",
+			"email": "",
+			"description": "",
+			"group": 0
+		},
+		{
+			"id": 41,
+			"name": "Qianqian Tang",
+			"category": "PhD Student",
+			"image": "/member/tangqianqian.jpg",
 			"email": "",
 			"description": "",
 			"group": 0
