@@ -3,7 +3,13 @@
       "year": "2025",
       "children": [
         {
-          "title": " A Thorough Security Analysis of BLE Proximity Tracking Protocols",
+          "title": "MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers",
+          "authors": "Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo",
+          "conference": "USENIX Security 2025",
+          "group": 3
+        },
+        {
+          "title": "A Thorough Security Analysis of BLE Proximity Tracking Protocols",
           "authors": "Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo",
           "conference": "USENIX Security 2025",
           "group": 3
