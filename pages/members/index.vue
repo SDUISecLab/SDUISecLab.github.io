@@ -16,7 +16,7 @@
 						<div v-for="(item,index) in productList" :key="index" class="flex items-center">
 							<img class="img" :src="item.image" :title="item.title" :alt="item.title">
 							<div class="ml-6">
-								<p class="mt-2 font-bold text-lg name hover:cursor-pointer">{{item.name}}</p>
+								<p class="mt-2 font-bold text-lg name hover:cursor-pointer" @click="navigateTo(item.url)">{{item.name}}</p>
 								<p class="mt-2">{{item.category}}</p>
 								<p class="mt-2" v-if="item.email">{{item.email}}</p>
 								<p class="mt-2" v-if="item.location">{{item.location}}</p>
@@ -38,11 +38,10 @@
 		const response = await fetch('/members.json')
 		const data = await response.json()
 		categories.value = data.category
-		categoryName.value = categories.value[0].name
 		let memberList = data.member
 		let result = []
 		for (let i = 0; i < memberList.length; i++) {
-			if (memberList[i].category == categoryName.value) {
+			if (memberList[i].typeId == categoryIndex.value) {
 				result.push(memberList[i])
 			}
 		}
@@ -57,12 +56,18 @@
 		let memberList = data.member
 		let result = []
 		for (let i = 0; i < memberList.length; i++) {
-			if (memberList[i].category == categoryName.value) {
+			if (memberList[i].typeId == categoryIndex.value) {
 				result.push(memberList[i])
 			}
 		}
 		productList.value = result
 	}
+
+	// navigateTo 替换当前页面跳转
+	const navigateTo = (url) => {
+		if (url)
+    		window.location.href = url;
+	};
 </script>
 
 <style lang="scss" scoped>
