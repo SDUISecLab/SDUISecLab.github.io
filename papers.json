@@ -3,6 +3,36 @@
       "year": "2025",
       "children": [
         {
+          "title": "ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space",
+          "authors": "Chuanchao Zang, Xiangtao Meng, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Qi, Zheng Li, Shanqing Guo",
+          "conference": "NeurIPS 2025",
+          "group": 4
+        },
+        {
+          "title": "DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation",
+          "authors": "Xinyu Gao, Xiangtao Meng, Yingkai Dong, Zheng Li, Shanqing Guo",
+          "conference": "CCS 2025",
+          "group": 4
+        },
+        {
+          "title": "Poisoning Attacks to Local Differential Privacy for Ranking Estimation",
+          "authors": "Pei Zhan, Peng Tang, Yangzhuo Li, Puwen Wei, Shanqing Guo",
+          "conference": "CCS 2025",
+          "group": 4
+        },
+        {
+          "title": "DROWN: Towards Tighter LiRPA-based Robustness Certification",
+          "authors": "Yunruo Zhang, Tianyu Du, Shouling Ji, Shanqing Guo",
+          "conference": "COLING 2025",
+          "group": 4
+        },
+        {
+          "titlle": "CSFuzzer: A grey-box fuzzer for network protocol using context-aware state feedback",
+          "authors": "Xiangpu Song, Yingpei Zeng, Jianliang Wu, Hao Li, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo",
+          "conference": "Computers & Security 2025",
+          "group": 3
+        },
+        {
           "title": "Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models",
           "authors": "Yingkai Dong, Xiangtao Meng, Ning Yu, Zheng Li, Shanqing Guo",
           "conference": "IEEE S&P 2025",
