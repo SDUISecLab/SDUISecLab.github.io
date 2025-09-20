@@ -27,7 +27,7 @@
           "group": 4
         },
         {
-          "titlle": "CSFuzzer: A grey-box fuzzer for network protocol using context-aware state feedback",
+          "title": "CSFuzzer: A grey-box fuzzer for network protocol using context-aware state feedback",
           "authors": "Xiangpu Song, Yingpei Zeng, Jianliang Wu, Hao Li, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo",
           "conference": "Computers & Security 2025",
           "group": 3
