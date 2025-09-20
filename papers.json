@@ -12,6 +12,8 @@
           "title": "DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation",
           "authors": "Xinyu Gao, Xiangtao Meng, Yingkai Dong, Zheng Li, Shanqing Guo",
           "conference": "CCS 2025",
+          "arxiv": "https://arxiv.org/abs/2509.06026",
+          "code": "https://github.com/Xinyu140203/RAG_MIA",
           "group": 4
         },
         {
