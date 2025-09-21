@@ -196,7 +196,7 @@
 		{
 			"id": 26,
 			"name": "Chengtian Hu",
-			"category": "Master Student",
+			"category": "Alumni",
 			"image": "/member/huchengtian.jpg",
 			"email": "202237086@mail.sdu.edu.cn",
 			"description": "研究方向:算法复杂性漏洞检测",
@@ -205,7 +205,7 @@
 		{
 			"id": 29,
 			"name": "Hao Pan",
-			"category": "Master Student",
+			"category": "Alumni",
 			"image": "/member/panhao.jpg",
 			"email": "panhao410@mail.sdu.edu.cn",
 			"description": "研究方向：协议安全-网络安全",
@@ -368,7 +368,7 @@
 		{
 			"id": 25,
 			"name": "Yunruo Zhang",
-			"category": "PhD Student",
+			"category": "Alumni",
 			"image": "/member/zhangyunruo.jpg",
 			"email": "",
 			"description": "",
@@ -377,7 +377,7 @@
 		{
 			"id": 27,
 			"name": "Yifei Li",
-			"category": "Master Student",
+			"category": "Alumni",
 			"image": "/member/liyifei.jpg",
 			"email": "",
 			"description": "",
