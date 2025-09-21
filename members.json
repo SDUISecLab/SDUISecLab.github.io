@@ -43,7 +43,7 @@
 		{
 			"id": 3,
 			"name": "Ge Han",
-			"category": "PhD Student",
+			"category": "Alumni",
 			"image": "/member/hange.jpg",
 			"email": "hangehg@126.com",
 			"description": "I am interested in the overlap of machine learning and security, which includes the security evaluation of machine learning systems, and the application of machine learning techniques in security related domains. Specifically, my recent researches concern on the robustness and privacy of machine learning systems and have applied deep learning technique to message hiding.",
