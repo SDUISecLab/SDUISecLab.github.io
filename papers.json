@@ -3,6 +3,24 @@
       "year": "2025",
       "children": [
         {
+          "title": "ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification",
+          "authors": "Xiangpu Song,Longjia Pei,Jianliang Wu,Gaoshuo He,Chaoshun Zuo,Xiaofeng Liu, Qingchuan Zhao, Shanqing Guo",
+          "conference": "NDSS 2026",
+          "group": 3
+        },
+        {
+          "title": "Formal Analysis Framework for E2EE Protocols",
+          "authors": "Yu Wang, Xiaofeng Li,Yu Hou, Chengyu Hu, Shanqing Guo",
+          "conference": "21st ACM ASIA Conference on Computer and Communications Security 2026",
+          "group": 3
+        },
+        {
+          "title": "Enhancing Local Differential Privacy Accuracy by Exploiting Inherent Uncertainty",
+          "authors": "Peng Tang，Xiya Shao，Rui Chen，Ning Wang，Shanqing Guo",
+          "conference": "SIGMOD 2026",
+          "group": 3
+        },
+        {
           "title": "ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space",
           "authors": "Chuanchao Zang, Xiangtao Meng, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Qi, Zheng Li, Shanqing Guo",
           "conference": "NeurIPS 2025(spotlight)",
