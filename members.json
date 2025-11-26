@@ -418,6 +418,63 @@
 			"email": "",
 			"description": "",
 			"group": 0
+		},
+
+
+
+		{
+			"id": 42,
+			"name": "Haoyang Pan",
+			"category": "Master Student",
+			"image": "/member/panhaoyang.jpg",
+			"email": "202517242@mail.sdu.edu.cn",
+			"description": "无",
+			"group": 4
+		},
+		{
+			"id": 43,
+			"name": "Gaoshuo He",
+			"category": "Master Student",
+			"image": "/member/hegaoshuo.jpg",
+			"email": "gaoshuohe1024@163.com",
+			"description": "山东大学网络空间安全学院在读硕士生，研究方向为模糊测试与协议安全",
+			"group": 2
+		},
+		{
+			"id": 44,
+			"name": "Jianing Wang",
+			"category": "PhD Student",
+			"image": "/member/wangjianing.jpg",
+			"email": "jianingwang@mail.sdu.edu.cn",
+			"description": "Hi~~~",
+			"group": 4
+		},
+		{
+			"id": 45,
+			"name": "Luying Xu",
+			"category": "Master Student",
+			"image": "/member/xuluying.jpg",
+			"email": "389097961@qq.com",
+			"description": "real",
+			"group": 2
+		},
+		{
+			"id": 46,
+			"name": "Xintong Li",
+			"category": "Master Student",
+			"image": "/member/lixintong.jpg",
+			"email": "xintongli33550336@outlook.com",
+			"description": "无",
+			"group": 3
+		},
+		{
+			"id": 47,
+			"name": "Na Li",
+			"category": "PhD Student",
+			"image": "/member/lina.jpg",
+			"email": "lina_daisy@mail.sdu.edu.cn",
+			"description": "流水不争先，争的是滔滔不绝。",
+			"group": 4
 		}
 	]
 }
