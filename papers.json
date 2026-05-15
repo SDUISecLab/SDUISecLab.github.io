@@ -1,7 +1,25 @@
 [
     {
-      "year": "2025",
+      "year": "2026",
       "children": [
+        {
+          "title": "\"Tap\" Without Tapping: A Tag Discovery Forgery Attack on Android NFC",
+          "authors": "Yilin Li, Jianliang Wu, Chaoshun Zuo, Qingchuan Zhao, Xiaofeng Liu, Xiangpu Song, Chengyu Hu, Shanqing Guo",
+          "conference": "USENIX Security 2026",
+          "group": 3
+        },
+        {
+          "title": "Beyond the Safety Tax: Mitigating Unsafe Text-to-Image Generation via External Safety Rectification",
+          "authors": "Xiangtao Meng, Yingkai Dong, Ning Yu, Li Wang, Zheng Li, Shanqing Guo",
+          "conference": "ACL 2026 Findings",
+          "group": 4
+        },
+        {
+          "title": "VidLeaks: Membership Inference Attacks Against Text-to-Video Models",
+          "authors": "Li Wang, Wenyu Chen, Ning Yu, Zheng Li, Shanqing Guo",
+          "conference": "USENIX Security 2026",
+          "group": 4
+        },
         {
           "title": "ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification",
           "authors": "Xiangpu Song,Longjia Pei,Jianliang Wu,Gaoshuo He,Chaoshun Zuo,Xiaofeng Liu, Qingchuan Zhao, Shanqing Guo",
@@ -19,7 +37,12 @@
           "authors": "Peng Tang，Xiya Shao，Rui Chen，Ning Wang，Shanqing Guo",
           "conference": "SIGMOD 2026",
           "group": 3
-        },
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "children": [
         {
           "title": "ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space",
           "authors": "Chuanchao Zang, Xiangtao Meng, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Qi, Zheng Li, Shanqing Guo",
