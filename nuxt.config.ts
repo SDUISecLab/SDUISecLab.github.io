@@ -1,8 +1,20 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
+const normalizeOutputName = (name = 'asset') => {
+	const normalized = name
+		.replace(/\[([^\]]+)\]/g, '$1')
+		.replace(/^_+/, '')
+		.replace(/^plugin-/, 'plugin-')
+	return normalized || 'asset'
+}
+
 export default defineNuxtConfig({
 	target: 'static',
 	modules: ['@nuxtjs/tailwindcss'],
+	experimental: {
+		payloadExtraction: false
+	},
 	app: {
+		buildAssetsDir: '/nuxt/',
 		head: {
 			charset: 'utf-8',
 			title: 'ISecLab',
@@ -44,6 +56,18 @@ export default defineNuxtConfig({
 		'~/assets/style/base.scss',
 	],
 	vite: {
+		build: {
+			rollupOptions: {
+				output: {
+					entryFileNames: (chunkInfo) => `nuxt/${normalizeOutputName(chunkInfo.name)}.[hash].js`,
+					chunkFileNames: (chunkInfo) => `nuxt/${normalizeOutputName(chunkInfo.name)}.[hash].js`,
+					assetFileNames: (assetInfo) => {
+						const name = assetInfo.name?.split(/[\\/]/).pop()?.replace(/\.[^.]+$/, '')
+						return `nuxt/${normalizeOutputName(name)}.[hash][extname]`
+					}
+				}
+			}
+		},
 		css: {
 			preprocessorOptions: {
 				scss: {

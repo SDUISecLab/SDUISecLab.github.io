@@ -15,7 +15,7 @@
     },
     {
         "id":3,
-        "title":"Formalization and Cryptographic Security",
+        "title":"Cryptography and Protocol Security",
         "image":"/group/formalization.png",
         "display":false,
         "desc":"The Formalization and Cryptographic Security Research Group focuses on the security of cryptographic protocols and formal verification methods.Leveraging program analysis methods (e.g., taint analysis and parameter tracking) and symbolic analysis methods (e.g., formal analysis), our research rigorously examines the security and integrity of cryptographic protocols and systems. Our work enhances the robustness of cryptographic implementations and provides the industry with actionable frameworks and tools for secure protocol design, contributing to the advancement of secure and reliable cyber infrastructures."

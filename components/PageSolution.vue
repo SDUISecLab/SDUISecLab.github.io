@@ -5,7 +5,14 @@
 				<div class="cards flex flex-wrap">
 					<li v-for="(item,index) in solutionSwiper" :key="index" class="w-1/4 box-border p-4 mt-6">
 						<!-- <a :href="item.id==7 ? '/person/'+item.id: 'javascript:void(0)'" class="card"> -->
-						<a href="javascript:void(0)" class="card">
+						<component
+							:is="item?.url ? 'a' : 'div'"
+							:href="item?.url || undefined"
+							:target="item?.url ? '_blank' : undefined"
+							:rel="item?.url ? 'noopener noreferrer' : undefined"
+							class="card"
+							:class="{'card--link': item?.url}"
+						>
 							<img :src="item?.image" class="card__image" alt="" />
 							<div class="card__overlay">
 								<div class="card__header">
@@ -18,7 +25,7 @@
 								</div>
 								<p class="card__description">{{item?.description}}</p>
 							</div>
-						</a> 
+						</component>
 					</li>
 				</div>
 			</div>
@@ -58,6 +65,10 @@
 		border-radius: calc(var(--curve) * 1px);
 		overflow: hidden;
 		text-decoration: none;
+	}
+
+	.card--link {
+		cursor: pointer;
 	}
 
 	.card__image {      
