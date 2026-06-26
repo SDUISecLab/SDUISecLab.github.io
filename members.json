@@ -28,6 +28,7 @@
 			"category": "Professor",
 			"image": "/member/guoshanqing.jpg",
 			"email": "guoshanqing@sdu.edu.cn",
+            "url": "https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm",
 			"description": "",
 			"group": -1
 		},
@@ -55,6 +56,7 @@
 			"category": "PhD Student",
 			"image": "/member/mengxiangtao.jpg",
 			"email": "mengxiangtao@mail.sdu.edu.cn",
+            "url": "https://mxtsecure.github.io/mengxiangtao.github.io/",
 			"description": "在读博士，研究方向为人工智能安全",
 			"group": 4
 		},
@@ -158,7 +160,7 @@
 			"group": 3
 		},
 		{
-			"id": 2,
+			"id": 48,
 			"name": "Hao Li",
 			"category": "Alumni",
 			"image": "/member/lihao.jpg",
@@ -389,6 +391,7 @@
 			"category": "PhD Student",
 			"image": "/member/liyilin.png",
 			"email": "202217060@mail.sdu.edu.cn",
+            "url": "https://mu-sec.github.io/",
 			"description": "",
 			"group": 0
 		},
@@ -402,7 +405,7 @@
 			"group": 0
 		},
 		{
-			"id": 40,
+			"id": 49,
 			"name": "Shuai Wang",
 			"category": "PhD Student",
 			"image": "/member/wangshuai.jpg",
@@ -411,7 +414,7 @@
 			"group": 0
 		},
 		{
-			"id": 41,
+			"id": 50,
 			"name": "Qianqian Tang",
 			"category": "PhD Student",
 			"image": "/member/tangqianqian.jpg",
@@ -423,7 +426,7 @@
 
 
 		{
-			"id": 42,
+			"id": 51,
 			"name": "Haoyang Pan",
 			"category": "Master Student",
 			"image": "/member/panhaoyang.jpg",
